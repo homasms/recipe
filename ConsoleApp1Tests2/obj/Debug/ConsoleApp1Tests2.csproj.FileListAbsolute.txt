@@ -1,0 +1,14 @@
+C:\Users\sajjad\Desktop\exercise5\ConsoleApp1\ConsoleApp1Tests2\bin\Debug\ConsoleApp1Tests2.dll
+C:\Users\sajjad\Desktop\exercise5\ConsoleApp1\ConsoleApp1Tests2\bin\Debug\ConsoleApp1Tests2.pdb
+C:\Users\sajjad\Desktop\exercise5\ConsoleApp1\ConsoleApp1Tests2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sajjad\Desktop\exercise5\ConsoleApp1\ConsoleApp1Tests2\obj\Debug\ConsoleApp1Tests2.csprojResolveAssemblyReference.cache
+C:\Users\sajjad\Desktop\exercise5\ConsoleApp1\ConsoleApp1Tests2\obj\Debug\ConsoleApp1Tests2.csproj.CoreCompileInputs.cache
+C:\Users\sajjad\Desktop\exercise5\ConsoleApp1\ConsoleApp1Tests2\obj\Debug\ConsoleApp1Tests2.dll
+C:\Users\sajjad\Desktop\exercise5\ConsoleApp1\ConsoleApp1Tests2\obj\Debug\ConsoleApp1Tests2.pdb
+C:\git\96522024\AP_Class\exercise5\ConsoleApp1Tests2\bin\Debug\ConsoleApp1Tests2.dll
+C:\git\96522024\AP_Class\exercise5\ConsoleApp1Tests2\bin\Debug\ConsoleApp1Tests2.pdb
+C:\git\96522024\AP_Class\exercise5\ConsoleApp1Tests2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\git\96522024\AP_Class\exercise5\ConsoleApp1Tests2\obj\Debug\ConsoleApp1Tests2.csprojResolveAssemblyReference.cache
+C:\git\96522024\AP_Class\exercise5\ConsoleApp1Tests2\obj\Debug\ConsoleApp1Tests2.csproj.CoreCompileInputs.cache
+C:\git\96522024\AP_Class\exercise5\ConsoleApp1Tests2\obj\Debug\ConsoleApp1Tests2.dll
+C:\git\96522024\AP_Class\exercise5\ConsoleApp1Tests2\obj\Debug\ConsoleApp1Tests2.pdb
